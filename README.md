@@ -1,0 +1,2 @@
+# lagadari
+lagadari linux
